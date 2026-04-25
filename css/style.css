@@ -37,10 +37,11 @@ body > a {
 .gallery-img {
     display: block;
     margin: 20px auto;
-    max-width: max-width: 400px;;
+    max-width: 400px;
     border-radius: 10px;
     box-shadow: 0 0 10px gray;
 }
+
 h1 {
     text-align: center;
 }
