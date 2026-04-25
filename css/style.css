@@ -1,3 +1,26 @@
 body {
     background-color: lightblue;
 }
+#main-title {
+    color: darkblue;
+    text-align: center;
+}
+
+.subtitle {
+    color: darkgreen;
+    font-style: italic;
+}
+
+#nav-title {
+    color: purple;
+}
+
+.nav-link {
+    color: red;
+    text-decoration: none;
+}
+
+body > a {
+    display: block;
+    margin-bottom: 10px;
+}
