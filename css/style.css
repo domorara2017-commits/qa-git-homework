@@ -34,3 +34,10 @@ body > a {
     border-radius: 15px;
     box-shadow: 0 0 10px gray;
 }
+.gallery-img {
+    display: block;
+    margin: 20px auto;
+    max-width: 300px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
