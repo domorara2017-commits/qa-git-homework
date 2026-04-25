@@ -24,3 +24,6 @@ body > a {
     display: block;
     margin-bottom: 10px;
 }
+.profile {
+    text-align: center;
+}
