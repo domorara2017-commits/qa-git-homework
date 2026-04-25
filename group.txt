@@ -1,3 +1,4 @@
 "Bug Mafia" 
 "Hello world" 
 "QA forever" 
+"Hello from new branch" 
