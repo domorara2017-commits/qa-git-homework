@@ -28,5 +28,9 @@ body > a {
     text-align: center;
     max-width: 600px;
     margin: 40px auto;
-    padding: 20px;
+    padding: 25px;
+    background-color: white;
+    border: 2px solid darkblue;
+    border-radius: 15px;
+    box-shadow: 0 0 10px gray;
 }
